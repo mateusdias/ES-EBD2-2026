@@ -4,34 +4,34 @@ Este cronograma está organizado por **blocos mensais**, alinhando **conteúdo t
 
 ---
 
-## Bloco 1 — Fundamentos de Bancos de Dados Não Relacionais  
-**Período:** Fevereiro e Março 
+## Bloco 1 — Fundamentos de Bancos de Dados Não Relacionais e Bancos de Dados Orientados a Documentos
+**Período:** Agosto
 
 ### Conteúdos
 - Introdução aos bancos de dados não relacionais orientados a documentos
 - Diferenças entre modelos Relacionais e NoSQL
 - Arquitetura de bancos NoSQL
 - Casos de uso e critérios de escolha
+- Ferramentas e técnicas para projetos de bancos de dados profissionais 
 
 ### Tecnologias e Ferramentas
 - MongoDB (conceitos iniciais)
 - MongoDB Atlas
 - Visão geral de Firestore e DynamoDB
+- Dicionário de dados com foco em arquitetura
+- Cenários de evolução e mudanças dos BDs
 
 ### Atividades
-- Exercícios conceituais
-- Primeiros experimentos com documentos
-- Discussões comparativas (Relacional × NoSQL)
+- Exercício avaliativo 1
 
-## Bloco 2 — Bancos Orientados a Documentos  
-**Período:** Março
+## Bloco 2 — Aspectos avançados de bancos de dados orientados a documentos 
+**Período:** Setembro
 
 ### Conteúdos
-- Modelagem orientada a documentos
-- Coleções, documentos e esquemas flexíveis
 - Queries e operadores
 - Indexação e desempenho
 - Sharding e escalabilidade
+- Aspectos-chave para projetos não relacionais
 
 ### Tecnologias e Ferramentas
 - MongoDB
@@ -39,11 +39,10 @@ Este cronograma está organizado por **blocos mensais**, alinhando **conteúdo t
 - MongoDB Atlas Charts
 
 ### Atividades
-- Laboratórios de modelagem
-- Criação de queries e índices
+- Exercício avaliativo 2
 
 ## Bloco 3 — Bancos Orientados a Grafos e Soluções Distribuídas  
-**Período:** Abril
+**Período:** Outubro
 
 ### Conteúdos
 - Conceitos de bancos de dados orientados a grafos
@@ -52,41 +51,52 @@ Este cronograma está organizado por **blocos mensais**, alinhando **conteúdo t
 - Introdução a bancos distribuídos
 
 ### Tecnologias e Ferramentas
-- Neo4j
+- Neo4j e modelagem de bancos orientados a grafos
 
 ### Atividades
-- Modelagem de grafos
-- Consultas básicas em grafos
-- Estudos de caso
+- Exercício avaliativo 3
 
-## Bloco 4 — Aplicabilidade, Arquiteturas Híbridas e Revisão  
-**Período:** Maio
+## Bloco 4 — Aplicabilidade, Arquiteturas Híbridas e Comparações de Projetos  
+**Período:** Novembro
 
 ### Conteúdos
 - Quando usar (e quando não usar) NoSQL
 - Arquiteturas híbridas Relacional–NoSQL
 - Bancos NoSQL in-memory
-- Revisão geral da disciplina
+- Estudo comparativo de soluções de mercado para problemas consagrados. 
 
 ### Tecnologias e Ferramentas
 - Oracle Cloud NoSQL
 - Discussão de arquiteturas reais de mercado
 
-### Atividades
-- Estudo de cenários reais
-- Revisão orientada para avaliação
-
 ## Bloco 5 — Finalização do Semestre
-**Período:** Junho
+**Período:** Dezembro
 
 ### Conteúdos
-- Primeira semana: Mini-projeto de recuperação (mas todos podem participar)
-- Segunda semana: Divulgação das notas finais
+- Entrega das notas finais e encerramento do semestre. 
 
-### Atividades
-- Discentes entregam mini-projeto 
-- Docente corrige mini-projetos e fecha as notas finais
+## Avaliações — Datas Previstas
 
-## 📝 Avaliações — Datas Previstas
+Atenção: As avaliações serão teóricas, portanto verifique **qual turma teórica** você está matriculado para não confundir as datas. 
+Além disso, essas datas são previstas e poderão ser alteradas pelo professor. Em caso de alteração, as turmas serão comunicadas em sala de aula e o calendário será atualizado. 
 
-(Divulgação em breve...)
+| **Prova 1** ||
+|---------------|------|  
+| **Turma teórica** | **Data** | 
+| 0101 | 14/09/26 | 
+| 0102 | 14/09/26 |
+| 0103 | 17/09/26 |
+
+| **Prova 2** ||
+|---------------|------|  
+| **Turma teórica** | **Data** | 
+| 0101 | 26/10/26 | 
+| 0102 | 26/10/26 |
+| 0103 | 29/10/26 |
+
+| **Prova Substitutiva** ||
+|---------------|------|  
+| **Turma teórica** | **Data** | 
+| 0101 | 23/11/26 | 
+| 0102 | 23/11/26 |
+| 0103 | 26/11/26 |

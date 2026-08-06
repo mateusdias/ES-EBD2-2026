@@ -80,25 +80,33 @@ Já nas aulas práticas de laboratório, o professor aplicará exercícios relac
 
 ## Critérios de Avaliação
 
-Serão aplicadas duas avaliações teóricas, individuais e escritas (AV1 e AV2), realizadas em sala de aula, com duração de 2h/a cada. 
+Serão aplicadas duas avaliações teóricas, individuais e escritas (AV1 e AV2), realizadas em sala de aula, com duração de 2h/a cada.
 
-As avaliações teóricas têm como objetivo medir o comprometimento individual do estudante com a disciplina.
+As avaliações teóricas têm como objetivo avaliar a aprendizagem individual dos conteúdos trabalhados na disciplina.
+
+No decorrer do semestre, além de exercícios corriqueiros para fortalecer o conhecimento, serão aplicados três exercícios avaliativos. Para cada exercício entregue, o docente atribuirá um dos conceitos: Excelente, Bom ou Insuficiente. Esses exercícios serão realizados em sala de aula ou laboratório, em caráter individual ou em grupo, conforme orientação do docente no momento da atividade.
+
+Não serão aceitas entregas posteriores dos exercícios avaliativos, salvo em situações justificadas conforme normas institucionais ou análise do docente e da coordenação do curso.
+
+Cada exercício não entregue ou com conceito Insuficiente implicará desconto de 1,0 (um) ponto da nota final do semestre.
 
 ### Cálculo da Nota Final (NF)
 
-A Nota Final (NF) será calculada de acordo com a fórmula: 
+A Nota Final (NF) será calculada de acordo com a fórmula:
 
-NF = AV1 (até 5.0 pontos) + AV2 (até 5.0 pontos)
+NF = AV1 (até 5,0 pontos) + AV2 (até 5,0 pontos) - descontos dos exercícios avaliativos
 
-Cada uma das avaliações representa 50% dos pontos totais possíveis. 
+Cada uma das avaliações representa 50% dos pontos totais possíveis. A Nota Final será limitada ao intervalo de 0,0 a 10,0 pontos.
 
 ## Estratégia de Recuperação
 
-Caso o estudante não alcance a nota final mínima de 5,0 (cinco) pontos, será concedida a oportunidade de realizar uma prova substitutiva que substituirá a menor nota entre AV1 e AV2. 
+Caso o estudante não alcance a nota final mínima de 5,0 (cinco) pontos, será concedida a oportunidade de realizar uma prova substitutiva que substituirá a menor nota entre AV1 e AV2. No entanto, a oportunidade de realizar a prova substitutiva está condicionada à entrega dos três exercícios avaliativos e à obtenção de conceito Bom ou Excelente em pelo menos dois deles.
 
 ## Instrumentos de Avaliação
 
 - Avaliações teóricas individuais (AV1 e AV2);
+- Exercícios avaliativos;
+- Prova substitutiva, quando aplicável.
 
 ## Bibliografia Básica
 
