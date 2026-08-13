@@ -54,7 +54,8 @@ Durante o semestre, serão exploradas, de forma prática ou conceitual, as segui
 ```text
 ES-EBD2-2026/
 ├── res/               # Recursos, imagens, diagramas e demais artefatos utilizados no repositório
-├── aulas/             # Conteúdo teórico organizado por aula
+├── temas/             # Fechamentos teóricos organizados por tema
+├── exemplos/          # Exemplos de código ou materiais dados em aula
 ├── experimentos/      # Experimentos práticos e demonstrações
 ├── labs/              # Atividades de laboratório
 ├── referencias/       # Materiais de apoio e leituras complementares
