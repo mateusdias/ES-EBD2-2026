@@ -1,0 +1,236 @@
+[
+  {
+    "_id": "CH-12490-P-0101-2026-08-01",
+    "data": "2026-08-01",
+    "disciplina": {
+      "codigo": "12490-P",
+      "nome": "Estudos de Bancos de Dados 2 - Prática",
+      "curso": "Engenharia de Software",
+      "periodo": 4,
+      "anoCalendario": 2026,
+      "semestreCalendario": 2
+    },
+    "turma": {
+      "codigo": "0101",
+      "qtdeAtualDeMatriculados": 29
+    },
+    "docente": {
+      "RP": "4567890",
+      "nome": "Steve Jobs"
+    },
+    "aula": {
+      "dataHoraInicio": "2026-08-01T08:00:00",
+      "dataHoraFim": "2026-08-01T09:40:00",
+      "qtdeHorasAula": 2,
+      "conteudo": "Apresentação da disciplina e revisão de modelagem orientada a documentos."
+    },
+    "resumo": {
+      "totalAlunos": 5,
+      "presentes": 4,
+      "ausentes": 1
+    },
+    "alunos": [
+      {
+        "RA": "1234",
+        "nome": "Ayrton Senna",
+        "presente": true
+      },
+      {
+        "RA": "1235",
+        "nome": "Ana Clara Souza",
+        "presente": true
+      },
+      {
+        "RA": "1236",
+        "nome": "Bruno Henrique Lima",
+        "presente": false,
+        "justificativa": "Sem justificativa informada"
+      },
+      {
+        "RA": "1237",
+        "nome": "Camila Ferreira Rocha",
+        "presente": true
+      },
+      {
+        "RA": "1238",
+        "nome": "Diego Martins Alves",
+        "presente": true
+      }
+    ]
+  },
+  {
+    "_id": "CH-12490-P-0101-2026-08-07",
+    "data": "2026-08-07",
+    "disciplina": {
+      "codigo": "12490-P",
+      "nome": "Estudos de Bancos de Dados 2 - Prática",
+      "curso": "Engenharia de Software",
+      "periodo": 4,
+      "anoCalendario": 2026,
+      "semestreCalendario": 2
+    },
+    "turma": {
+      "codigo": "0101",
+      "qtdeAtualDeMatriculados": 29
+    },
+    "docente": {
+      "RP": "4567890",
+      "nome": "Steve Jobs"
+    },
+    "aula": {
+      "dataHoraInicio": "2026-08-07T08:00:00",
+      "dataHoraFim": "2026-08-07T09:40:00",
+      "qtdeHorasAula": 2,
+      "conteudo": "Discussão sobre agregação, referências e desnormalização controlada."
+    },
+    "resumo": {
+      "totalAlunos": 5,
+      "presentes": 5,
+      "ausentes": 0
+    },
+    "alunos": [
+      {
+        "RA": "1234",
+        "nome": "Ayrton Senna",
+        "presente": true
+      },
+      {
+        "RA": "1235",
+        "nome": "Ana Clara Souza",
+        "presente": true
+      },
+      {
+        "RA": "1236",
+        "nome": "Bruno Henrique Lima",
+        "presente": true
+      },
+      {
+        "RA": "1237",
+        "nome": "Camila Ferreira Rocha",
+        "presente": true
+      },
+      {
+        "RA": "1238",
+        "nome": "Diego Martins Alves",
+        "presente": true
+      }
+    ]
+  },
+  {
+    "_id": "CH-12490-P-0102-2026-08-02",
+    "data": "2026-08-02",
+    "disciplina": {
+      "codigo": "12490-P",
+      "nome": "Estudos de Bancos de Dados 2 - Prática",
+      "curso": "Engenharia de Software",
+      "periodo": 4,
+      "anoCalendario": 2026,
+      "semestreCalendario": 2
+    },
+    "turma": {
+      "codigo": "0102",
+      "qtdeAtualDeMatriculados": 40
+    },
+    "docente": {
+      "RP": "890392",
+      "nome": "Ada Lovelace"
+    },
+    "aula": {
+      "dataHoraInicio": "2026-08-02T10:00:00",
+      "dataHoraFim": "2026-08-02T11:40:00",
+      "qtdeHorasAula": 2,
+      "conteudo": "Introdução a bancos orientados a documentos e desenho de coleções."
+    },
+    "resumo": {
+      "totalAlunos": 5,
+      "presentes": 4,
+      "ausentes": 1
+    },
+    "alunos": [
+      {
+        "RA": "2234",
+        "nome": "Eduarda Pereira Nunes",
+        "presente": true
+      },
+      {
+        "RA": "2235",
+        "nome": "Felipe Augusto Ribeiro",
+        "presente": true
+      },
+      {
+        "RA": "2236",
+        "nome": "Giovana Costa Melo",
+        "presente": true
+      },
+      {
+        "RA": "2237",
+        "nome": "Henrique Batista Gomes",
+        "presente": false,
+        "justificativa": "Atestado pendente"
+      },
+      {
+        "RA": "2238",
+        "nome": "Isabela Moura Cardoso",
+        "presente": true
+      }
+    ]
+  },
+  {
+    "_id": "CH-12490-P-0102-2026-08-08",
+    "data": "2026-08-08",
+    "disciplina": {
+      "codigo": "12490-P",
+      "nome": "Estudos de Bancos de Dados 2 - Prática",
+      "curso": "Engenharia de Software",
+      "periodo": 4,
+      "anoCalendario": 2026,
+      "semestreCalendario": 2
+    },
+    "turma": {
+      "codigo": "0102",
+      "qtdeAtualDeMatriculados": 40
+    },
+    "docente": {
+      "RP": "890392",
+      "nome": "Ada Lovelace"
+    },
+    "aula": {
+      "dataHoraInicio": "2026-08-08T10:00:00",
+      "dataHoraFim": "2026-08-08T11:40:00",
+      "qtdeHorasAula": 2,
+      "conteudo": "Modelagem de chamada por aula com snapshot de disciplina, turma e docente."
+    },
+    "resumo": {
+      "totalAlunos": 5,
+      "presentes": 5,
+      "ausentes": 0
+    },
+    "alunos": [
+      {
+        "RA": "2234",
+        "nome": "Eduarda Pereira Nunes",
+        "presente": true
+      },
+      {
+        "RA": "2235",
+        "nome": "Felipe Augusto Ribeiro",
+        "presente": true
+      },
+      {
+        "RA": "2236",
+        "nome": "Giovana Costa Melo",
+        "presente": true
+      },
+      {
+        "RA": "2237",
+        "nome": "Henrique Batista Gomes",
+        "presente": true
+      },
+      {
+        "RA": "2238",
+        "nome": "Isabela Moura Cardoso",
+        "presente": true
+      }
+    ]
+  }
+]

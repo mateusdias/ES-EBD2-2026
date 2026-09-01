@@ -1,0 +1,61 @@
+[
+  {
+    "codigo": "12490-P",
+    "nome": "Estudos de Bancos de Dados 2 - Prática",
+    "cargaHorariaTotal": 40,
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "anoCalendario": 2026,
+    "semestreCalendario": 2,
+    "turmas": [
+      {
+        "codigo": "0101",
+        "qtdeInicialDeMatriculados": 30,
+        "qtdeAtualDeMatriculados": 29,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 1,
+        "docente": {
+          "RP": "4567890",
+          "nome": "Steve Jobs"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-01T08:00:00",
+            "dataHoraFim": "2026-08-01T09:40:00",
+            "qtdeHorasAula": 2
+          },
+          {
+            "dataHoraInicio": "2026-08-07T08:00:00",
+            "dataHoraFim": "2026-08-07T09:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      },
+      {
+        "codigo": "0102",
+        "qtdeInicialDeMatriculados": 40,
+        "qtdeAtualDeMatriculados": 40,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 0,
+        "docente": {
+          "RP": "890392",
+          "nome": "Ada Lovelace"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-02T10:00:00",
+            "dataHoraFim": "2026-08-02T11:40:00",
+            "qtdeHorasAula": 2
+          },
+          {
+            "dataHoraInicio": "2026-08-08T10:00:00",
+            "dataHoraFim": "2026-08-08T11:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      }
+    ]
+  }
+]

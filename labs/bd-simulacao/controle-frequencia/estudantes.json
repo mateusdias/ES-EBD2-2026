@@ -1,0 +1,162 @@
+[
+  {
+    "RA": "1234",
+    "nome": "Ayrton Senna",
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12490-P",
+        "disciplinaNome": "Estudos de Bancos de Dados 2 - Prática",
+        "turmaCodigo": "0101",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "1235",
+    "nome": "Ana Clara Souza",
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12490-P",
+        "disciplinaNome": "Estudos de Bancos de Dados 2 - Prática",
+        "turmaCodigo": "0101",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "1236",
+    "nome": "Bruno Henrique Lima",
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12490-P",
+        "disciplinaNome": "Estudos de Bancos de Dados 2 - Prática",
+        "turmaCodigo": "0101",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "1237",
+    "nome": "Camila Ferreira Rocha",
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12490-P",
+        "disciplinaNome": "Estudos de Bancos de Dados 2 - Prática",
+        "turmaCodigo": "0101",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "1238",
+    "nome": "Diego Martins Alves",
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12490-P",
+        "disciplinaNome": "Estudos de Bancos de Dados 2 - Prática",
+        "turmaCodigo": "0101",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "2234",
+    "nome": "Eduarda Pereira Nunes",
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12490-P",
+        "disciplinaNome": "Estudos de Bancos de Dados 2 - Prática",
+        "turmaCodigo": "0102",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "2235",
+    "nome": "Felipe Augusto Ribeiro",
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12490-P",
+        "disciplinaNome": "Estudos de Bancos de Dados 2 - Prática",
+        "turmaCodigo": "0102",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "2236",
+    "nome": "Giovana Costa Melo",
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12490-P",
+        "disciplinaNome": "Estudos de Bancos de Dados 2 - Prática",
+        "turmaCodigo": "0102",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "2237",
+    "nome": "Henrique Batista Gomes",
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12490-P",
+        "disciplinaNome": "Estudos de Bancos de Dados 2 - Prática",
+        "turmaCodigo": "0102",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "2238",
+    "nome": "Isabela Moura Cardoso",
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12490-P",
+        "disciplinaNome": "Estudos de Bancos de Dados 2 - Prática",
+        "turmaCodigo": "0102",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  }
+]
