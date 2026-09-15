@@ -6,7 +6,7 @@ Para trabalhar com consultas básicas no MongoDB, acesse sua conta no MongoDB At
 
 Lembre-se de que será solicitada a criação de um usuário para acessar o cluster e também a liberação do IP a partir da PUC, ou `0.0.0.0/0`, como o professor já explicou.
 
-Carregue todos os bancos de exemplo, chamados de `samples`, que o MongoDB Atlas disponibiliza no seu cluster.
+Carregue todos os bancos de exemplo, chamados de `samples`, que o MongoDB Atlas possui, diretamente no seu cluster.
 
 Para fazer essa tarefa, após criar seu cluster, acesse-o pelo menu **Databases -> Cluster -> botão "..." -> Load sample data**.
 
