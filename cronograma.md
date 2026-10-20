@@ -90,9 +90,9 @@ Além disso, essas datas são previstas e poderão ser alteradas pelo professor.
 | **Prova 2** ||
 |---------------|------|  
 | **Turma teórica** | **Data** | 
-| 0101 | 26/10/26 | 
-| 0102 | 26/10/26 |
-| 0103 | 29/10/26 |
+| 0101 | 09/11/26 | 
+| 0102 | 09/11/26 |
+| 0103 | 12/11/26 |
 
 | **Prova Substitutiva** ||
 |---------------|------|  
